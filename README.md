@@ -10,7 +10,7 @@ Proyek ini adalah contoh sederhana tampilan form login menggunakan Flutter. Tida
 📦 Struktur File
 lib/
 
-└── main.dart
+  └── main.dart
 
 🚀 Cara Menjalankan
 - Pastikan Flutter sudah terinstal di perangkat kamu.
